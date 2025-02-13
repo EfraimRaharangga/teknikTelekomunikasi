@@ -1,6 +1,6 @@
 # Teknik Telekomunikasi Website
 
-Website ini membahas berbagai aspek Teknik Telekomunikasi, termasuk pengantar dan prospek karir di bidang ini. Dibangun dengan desain minimalis menggunakan warna utama biru tua dan putih.
+Website ini membahas berbagai aspek Teknik Telekomunikasi, termasuk pengantar dan prospek karir di bidang ini. Dibangun dengan desain minimalis menggunakan warna utama biru tua dan putih. https://efraimraharangga.github.io/teknikTelekomunikasi/
 
 ## Fitur
 - Artikel informatif tentang Teknik Telekomunikasi
